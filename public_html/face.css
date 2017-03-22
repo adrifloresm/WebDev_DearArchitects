@@ -1,0 +1,55 @@
+.fan_box a{
+ font:10px;
+ font-family: "Georgia" !Important;
+ font-style: italic;
+ color: #666 !important;
+}
+.fan_box a:hover{
+  text-decoration: underline;
+}
+.fan_box .profileimage {
+    display:none !important;
+}
+
+.connect_widget div.connect_confirmation_cell_no_like , .connect_widget div.connect_confirmation_cell  {
+    display: none;
+}
+
+.connect_widget .like_button_no_like .piece, .connect_widget .like_button_no_like{
+    background-color: #fff;
+     border-color:#666;
+}
+.connect_widget a.like_button_no_like:hover .piece, .connect_widget a.like_button_no_like:hover
+{
+    background-color: #fff;
+    border-color:#666;
+}
+.connect_widget_like_button .liketext {
+    color:#666;
+}
+.fan_box .connect_widget{
+position: absolute;
+top: 0;
+left: 0px;
+margin: 0 !important;
+}
+.fan_box .connect_action .name { /*Dear Arcchitects*/
+line-height:0px;
+font-size: 12px;
+padding-left: 0px;
+}
+.name_block{
+    margin-top: 33px;
+}
+
+.fan_box .connect_top{
+    padding:0px;
+    margin-left: 0px;
+}
+.fan_box .connect_action{
+    padding:0px;
+}
+.connect_widget_like_button .liketext
+{
+background-position: left -3px;
+}

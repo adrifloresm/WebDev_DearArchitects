@@ -1,0 +1,110 @@
+/* user salir*/
+#general{
+    position: relative;
+    top:40px;
+}
+#general p{
+  font-family: "Georgia";
+  font-size: 11px;
+  color: #666;
+  font-style: italic;
+  padding-left: 10px;
+}
+#general p a{
+  color: #666;
+  text-decoration: none;
+}
+#general p a:hover{
+  text-decoration:underline;
+}
+.letrachica{
+font-size: 11px;
+}
+.titulos{
+    font-family: "Georgia";
+    font-weight:bold !important;
+    font-style: italic;
+    font-size: 12px;
+    padding-bottom: 5px;
+    padding-left: 1px;
+    }
+.letraform
+{
+  font-family: "Georgia";
+  font-size: 12px;
+  text-align: right;
+}
+/*registrar*/
+.registrar a , registrar a:visited{
+  font-family: "Georgia";
+  font-size: 10px;
+  color:#CCC;
+  text-decoration: none;
+}
+.registrar a:hover{
+  text-decoration: underline;
+}
+/*warnings*/
+.tituloswarn{
+    font-family:'Georgia';
+    font-size:16px;
+    color:#666 ;
+    font-weight:bold;
+    font-style: italic;
+    text-align: left;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.letranorm{
+    font-family: "Georgia";
+  font-size: 11px;
+  font-weight:bold;
+    font-style: italic;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+/*usuarios*/
+.usuariosT{
+  font-family: "Georgia";
+  font-size: 12px;
+}
+.usuariosT td , .usuarios td{
+  padding: 3px;
+}
+.usuarios{
+  font-family: "Georgia";
+  font-size: 12px;
+  text-align: center;
+}
+/*admin index*/
+.photos{
+    text-align: center;
+}
+.photos td{
+    padding: 3px 10px;
+    border-bottom:1px #666 solid;
+}
+
+/*admin index*/
+.addphoto{
+  font-family: "Georgia";
+  font-size: 10px;
+  text-align: right;
+}
+.addphoto td{
+padding: 2px;
+}
+
+/*adminprojects*/
+.addproject{
+  font-family: "Georgia";
+  font-size: 10px;
+  text-align: right;
+}
+.addproject td{
+padding: 2px;
+}
+
+.alignleft{
+  text-align: left;
+}

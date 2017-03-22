@@ -1,0 +1,19 @@
+html, body {
+	margin:0;
+	padding:0;
+}
+
+#cuadro a{
+	color: #666;
+	text-decoration: none;
+}
+#cuadro a:focus,#cuadro a:hover,#cuadro a:active {
+	text-decoration: underline;
+}
+
+
+pre {
+	font-size: 1.2em;
+	line-height: 1.2em;
+	overflow-x: auto;
+}
